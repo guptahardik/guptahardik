@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my profile, I have been working on some projects. Will make them public soon. Until feel free to browse my repos.
+
 <!--
 **guptahardik/guptahardik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
